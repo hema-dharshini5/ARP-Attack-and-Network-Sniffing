@@ -53,11 +53,12 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![4](https://github.com/hema-dharshini5/ARP-Attack-and-Network-Sniffing/assets/147117728/55c1a138-49eb-4c75-9946-29f8d823588c)
+![45](https://github.com/hema-dharshini5/ARP-Attack-and-Network-Sniffing/assets/147117728/6482327f-352b-482c-89ce-5ab21bc84d10)
 
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+![4](https://github.com/hema-dharshini5/ARP-Attack-and-Network-Sniffing/assets/147117728/55c1a138-49eb-4c75-9946-29f8d823588c)
 
 
 ## RESULT:
